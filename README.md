@@ -1,9 +1,3 @@
-### :warning: Source code :warning:
-It is possible to obtain the source code. The code is current with the latest version of the game. For more details:
-
-Discord: damianop5 # 5293
-
-Email: damian.op@onet.eu
 
 ![alt text](http://i67.tinypic.com/357hs47.png "Survivio Banner")
 # Welcome to Surviv.io-Cheats(Actual working on client: 0.6.31)!
